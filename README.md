@@ -43,7 +43,7 @@ and KPIs of customer accusition and filters for user exploration.
 4.Insights and Trends: Analyze the visualized data to identify patterns, trends, and insights about leads behaviour, area of improvement
 marketing budget and startegy.
 
-# Dashboard
+# POWER BI Dashboard
 ![Screenshot (661)](https://github.com/avi251295/EdTech-Company-Data-Analysis/assets/120267658/fb9ba0aa-5d88-430a-90c9-61c9c42b5fa2)
 
 Dashboard Present the overview of behaviour users thats allow to identify the trend of leads intrested for enroll and 
